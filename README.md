@@ -27,3 +27,13 @@ This model can help the company allocate drivers more efficiently, reduce wait t
 
 ## Tools
 Python, Pandas, Scikit-learn
+
+## Final Conclusion
+
+In this project, I built a model to predict hourly taxi demand so the company can better plan for busy times.
+
+The data showed clear daily and weekly patterns, with higher demand during rush hours and weekends. I used lag features and rolling averages to capture these patterns.
+
+The Random Forest model performed best, with a test RMSE of about 42, meeting the project requirement.
+
+Overall, this model can help the company better match driver availability with demand, reduce wait times, and improve service.
