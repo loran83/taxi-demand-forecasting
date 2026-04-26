@@ -12,6 +12,20 @@ The goal was to forecast demand accurately to help improve driver allocation and
 - Trained multiple models including Random Forest
 - Evaluated model performance using RMSE
 
+## Project Visuals
+
+### Taxi Demand Over Time
+![Taxi demand over time](time-series.png)
+
+### Trend with Moving Average
+![Moving average trend](moving-average.png)
+
+### Demand by Hour of Day
+![Demand by hour](hourly-pattern.png)
+
+### Model Performance
+![Model results](model-results.png)
+
 ## Results
 - Achieved an RMSE of 42
 - Successfully captured demand patterns using time-based features
