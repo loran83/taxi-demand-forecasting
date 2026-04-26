@@ -34,3 +34,14 @@ The goal was to forecast demand accurately to help improve driver allocation and
 - Python
 - Pandas
 - Scikit-learn
+
+## How to Run
+
+1. Clone the repository:
+git clone https://github.com/loran83/taxi-demand-forecasting.git
+
+2. Install dependencies:
+pip install pandas numpy scikit-learn matplotlib
+
+3. Open the notebook:
+taxi_demand_forecasting.ipynb
