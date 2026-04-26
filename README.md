@@ -30,6 +30,17 @@ The goal was to forecast demand accurately to help improve driver allocation and
 - Achieved an RMSE of 42
 - Successfully captured demand patterns using time-based features
 
+ ## Key Insights
+- Taxi demand shows strong daily seasonality patterns  
+- Peak demand occurs during specific hours of the day  
+- Rolling averages help smooth short-term fluctuations  
+- Machine learning models can effectively forecast hourly demand
+
+## Future Improvements
+- Incorporate external factors such as weather or events  
+- Experiment with advanced time series models  
+- Improve feature engineering for better forecasting accuracy  
+
 ## Tools Used
 - Python
 - Pandas
